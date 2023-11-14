@@ -1,2 +1,2 @@
 # Portfolio_1
-Just A Try At Maklinbg Portfolios
+Just A Try At Making Portfolios
